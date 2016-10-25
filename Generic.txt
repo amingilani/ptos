@@ -1,0 +1,40 @@
+Licensor: <NAME> <CONTACT INFORMATION>
+Payment Information: <PAYMENT INFO>
+Unlockable License: <LICENSE NAME>, <LICENSE SOURCE>
+Price: <AMOUNT> <CURRENCY>
+
+Copyright (c) <YEAR> <COPYRIGHT HOLDER>
+
+The Pay To Open Source License
+==============================
+
+Definitions
+-----------
+
+1. "SOFTWARE": This software, its associated source code and documentation files
+2. "SOMEONE": A person, persons, entity or entities
+3. "LICENSE HOLDER" or "LICENSEE": SOMEONE authorized or licensed to to
+    sub-license the SOFTWARE to SOMEONE, thereby making that SOMEONE a LICENSE
+    HOLDER.
+4. "LICENSOR": The LICENSE HOLDER being paid to unlock the LICENSE
+5. "UNLOCKABLE LICENSE": The
+
+License
+-------
+
+### Rights
+
+Permission is hereby granted free of charge, to any person obtaining a copy of
+the "Software", to view and evaluate the Software for their purposes subject to
+the restrictions that they may not use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software.
+
+### Additional Purchasable Rights
+
+However, upon payment of "Price" above to:
+
+* The first listed Licensor; or in the absence of a Licensor:
+* The Copyright Holder
+
+The software may be used by the Licensee by the terms of the license set in the
+UNLOCKABLE LICENSE or in this original PTOS license.
